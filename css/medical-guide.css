@@ -172,7 +172,7 @@ img:hover {transition: background-color 0.5s ease; }
 .top-bar .get-touch .social-icons li a{ padding:13px 10px;}
 .top-bar .get-touch .social-icons li a.fb:hover{ background:#5c85ce;}
 .top-bar .get-touch .social-icons li a.tw:hover{ background:#02c0f2;}
-.top-bar .get-touch .social-icons li a.:hover{ background:#eb6850;}
+.top-bar .get-touch .social-icons li a:hover{ background:#eb6850;}
 .top-bar .get-touch .social-icons li:last-child a:hover{ color:#fff;}
 
 
